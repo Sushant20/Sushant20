@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sushant20&theme=dark&hide_border=true)](https://git.io/streak-stats)
