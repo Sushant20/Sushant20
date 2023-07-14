@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Choudhary</h1>
-<h3 align="center">Data and ML Platform Engineer and DevOps</h3>
+<h3 align="center">Data and ML Platform Engineer/DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant20&label=Profile%20views&color=0e75b6&style=flat" alt="sushant20" /> </p>
 
